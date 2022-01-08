@@ -6,7 +6,7 @@ SPAM SMS menggunakan api web INDIHOME
 $pkg install git
 $pkg install python3
 $pip install requests
-$git clone 
+$git clone https://github.com/Zuck-Ker/spamSMS
 $cd sms
 $python spam.py
 ```
@@ -17,7 +17,7 @@ $python spam.py
 $sudo apt-get install git
 $sudo apt-get install python3
 $pip install requests
-$git clone 
+$git clone https://github.com/Zuck-Ker/spamSMS
 $cd sms
 $python spam.py
 ```
